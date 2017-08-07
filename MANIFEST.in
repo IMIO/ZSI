@@ -4,7 +4,7 @@ recursive-include scripts *
 recursive-include samples WSGI *
 recursive-include test *
 recursive-include doc *
-
+recursive-include doc Makefile
 recursive-exclude doc *.tex
 recursive-exclude samples poly.py
 global-exclude *.pyc Makefile
