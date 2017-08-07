@@ -1,5 +1,5 @@
 Change for xxx released xxx:
-    -   Make XMLSchema.py work in cases where threading isn't built in
+2.1a2-imio1 (2017-08-07)
     -   Add client-side Cookie Support (Jorgen Frojk Kjaersgaard)
     -   For cookies, getheaders() is Python 2.3; use getallmatchingheaders
     -   In SoapWriter, put nsdecls on body, not envelope
