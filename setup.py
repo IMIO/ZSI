@@ -58,7 +58,7 @@ else:
 
 setup(
     name="ZSI",
-    version='2.1a2-imio1',
+    version='2.1a2-imio2.dev0',
     license="Python",
     packages=_packages,
     description="Zolera SOAP Infrastructure",
